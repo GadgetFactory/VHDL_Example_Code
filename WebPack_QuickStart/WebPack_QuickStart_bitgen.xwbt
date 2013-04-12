@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\dropbox\GadgetFactory\GadgetFactory_Engineering\VHDL_Examples\WebPack_QuickStart\WebPack_QuickStart.ncd
+OUTFILE=C:\dropbox\GadgetFactory\GadgetFactory_Engineering\VHDL_Examples\WebPack_QuickStart\WebPack_QuickStart.bit
+FAMILY=Spartan6
+PART=xc6slx4-2tqg144
+WORKINGDIR=C:\dropbox\GadgetFactory\GadgetFactory_Engineering\VHDL_Examples\WebPack_QuickStart
+LICENSE=WebPack
+USER_INFO=175441551_0_0_655
