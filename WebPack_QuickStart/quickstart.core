@@ -1,0 +1,21 @@
+CAPI=1
+[main]
+name = ::quickstart:0
+depend =
+
+[fileset rtl]
+files = WebPack_QuickStart.vhd
+file_type=vhdlSource
+
+backend = ise
+
+[ise]
+ucf_files = BPC3011-Papilio_Pro-general.ucf
+family = spartan6
+device = xc6slx9
+package = tqg144
+speed = -2
+top_module = WebPack_QuickStart
+
+[simulator]
+toplevel = WebPack_QuickStart
