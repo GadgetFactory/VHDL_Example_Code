@@ -2,12 +2,11 @@ CAPI=1
 [main]
 name = ::quickstart:0
 depend =
+backend = ise
 
 [fileset rtl]
 files = WebPack_QuickStart.vhd
 file_type=vhdlSource
-
-backend = ise
 
 [ise]
 ucf_files = BPC3011-Papilio_Pro-general.ucf
